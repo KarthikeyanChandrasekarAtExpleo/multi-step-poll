@@ -6,13 +6,13 @@ This project uses [Material UI](https://mui.com/material-ui/).
 
 ## Before running the project use the following command
 
-### `git checkout master` if the selected branch is main.
-
-## Available Scripts
+### `git checkout origin/master` if the selected branch is main.
 
 In the project directory, you can run:
 
 ### `npm install`
+
+## Available Scripts
 
 ### `npm start`
 
