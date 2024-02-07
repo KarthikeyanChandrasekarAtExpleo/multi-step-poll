@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project uses [Material UI](https://mui.com/material-ui/).
+
 ## Before running the project use the following command
 
 ### `git checkout master` if the selected branch is main.
