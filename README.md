@@ -25,6 +25,12 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+## After launching the App
+
+1. Select the response for each questions.
+2. At the summary section all questions will be viewed with their answers.
+3. The responses can be submitted to mock api which would return success message, this can be replaced with actual API.
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
