@@ -12,6 +12,8 @@ This project uses [Material UI](https://mui.com/material-ui/).
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
 Runs the app in the development mode.\
