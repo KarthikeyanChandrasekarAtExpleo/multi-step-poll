@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Before running the project use the following command
 
-### `git checkout master`
+### `git checkout master` if the selected branch is main.
 
 ## Available Scripts
 
