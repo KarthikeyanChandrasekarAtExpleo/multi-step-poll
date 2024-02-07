@@ -1,0 +1,73 @@
+.indicators-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.scroll-container {
+  background: #6b54fe;
+  height: 100%;
+  flex-basis: 50%;
+  position: relative;
+}
+
+.carousel-buttons {
+  position: absolute;
+  top: 42.5%;
+  left: 16%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.carousel-buttons button {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: none;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.indicator.active {
+  background-color: transparent;
+  border: 1px solid #fff;
+}
+
+.action-container {
+  display: grid;
+  place-items: center;
+  flex-basis: 50%;
+}
+
+.action-container-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.5rem;
+}
+
+.thumbs-up {
+  transform: translateY(0);
+  transition: transform 0.5s ease;
+}
+.thumbs-up:hover {
+  transform: translateY(-5px);
+}
+
+.smile-sad {
+  transform: rotate(0);
+  transition: transform 0.5s ease;
+}
+.smile-sad:hover {
+  transform: rotate(25deg);
+}
+
+.thumbs-down {
+  transform: translateY(0);
+  transition: transform 0.5s ease;
+}
+
+.thumbs-down:hover {
+  transform: translateY(5px);
+}
